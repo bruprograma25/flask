@@ -1,1 +1,5 @@
 # flask
+pastas 
+mercado.db dentro da pasta instance
+dentro da pasta mercado:initi.py,mercado.py e routes.py
+ainda dentro da pasta mercado tem o templates tem:base.html,home.html e produtos.html
